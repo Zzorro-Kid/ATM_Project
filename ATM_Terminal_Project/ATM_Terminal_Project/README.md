@@ -39,9 +39,7 @@ An ATM Terminal simulation. This interactive program allows users to log in usin
      ./atm
 
 
-## 🧪 Demo version
-
-  ![image](https://github.com/user-attachments/assets/398dafea-5c84-4bcc-9850-c46559eb2004)
+##  Note
 
 - You can find test PIN-codes in **codes.txt** file ;)
 
