@@ -1,4 +1,4 @@
-# ATM Terminal Project (C# Version)
+# ATM Terminal Project 
 
 A console-based ATM simulator that allows users to authenticate with a PIN and perform banking operations.
 
